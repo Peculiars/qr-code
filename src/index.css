@@ -1,0 +1,49 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*{
+  @apply p-0 m-0
+}
+
+body{
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  place-content: center;
+  width: 15rem;
+  height: 25rem;
+  background-color:  hsl(0, 0%, 100%);
+  word-wrap: break-word;
+  margin: auto;
+  margin-top: auto;
+  padding: 15px 15px 30px;
+  border-radius: 15px;
+}
+
+img{
+  width: 15rem;
+  height: 15rem;
+  border-radius: 15px;
+}
+
+.heading{
+  font-family: 'Outfit';
+  font-size: 17px;
+  margin: 15px 20px 0;
+}
+
+.text{
+  margin: 10px;
+  font-size: 13px;
+  font-family: 'Outfit';
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+}
