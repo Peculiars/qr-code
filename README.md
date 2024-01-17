@@ -25,7 +25,7 @@ When there's no particular rules on framework or library to be used, i make use 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [click here to visit the page](https://frontend-mentor-scan-code.netlify.app/)
 
 ### Built with
 
