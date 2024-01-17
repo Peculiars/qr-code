@@ -13,21 +13,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This is a simple React application challenge project by Frontend Mentor, this project display a QR code, heading and text description. 
 When there's no particular rules on framework or library to be used, i make use of React js and tailwindcss to build the component and styling respectively.
 ### Screenshot
+
+![Screenshot (208)](https://github.com/Peculiars/qr-code/assets/103338367/6728bdd3-0256-4fbd-9e03-f431d096ddb1)
+![Screenshot (209)](https://github.com/Peculiars/qr-code/assets/103338367/dbac24a5-9ffa-43e8-97eb-7198a3a47243)
 
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
